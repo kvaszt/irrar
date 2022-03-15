@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moritz</h1>
-<h3 align="center">A passionate front-end developer & media designer from Germany</h3>
+<h1>Hi 👋, I'm Moritz</h1>
+<h3>A passionate front-end developer & media designer from Germany</h3>
 
 - 🔭 I’m currently working on [ukrAID](https://github.com/juliusappel/ukrAID)
 
