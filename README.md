@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ukrAID](https://github.com/juliusappel/ukrAID)
 
-- 🌱 I’m currently learning **JavaScript, React, Angular**
+- 🌱 I’m currently learning ** React, Node.js, Express, MongoDB, Angular **
 
 - 👨‍💻 All of my projects are available at [moqu.io](moqu.io)
 
